@@ -1,0 +1,12 @@
+html, body {
+    background-color: #00ffc1;
+    font-family: 'Lora', serif;
+}
+
+.container {
+    padding: 25px;
+}
+
+input, button {
+    margin: 5px 0 5px 0;
+}
